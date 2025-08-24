@@ -1,4 +1,4 @@
 {
   "allowed_users": ["friend1@gmail.com", "friend2@gmail.com"],
-  "allowed_keys": ["ABC12345", "XYZ789"]
+  "allowed_keys": ["ABC123", "XYZ789"]
 }
